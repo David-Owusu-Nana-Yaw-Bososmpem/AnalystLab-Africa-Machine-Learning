@@ -1,0 +1,14 @@
+# Python temporary files
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Generated datasets and predictions
+data/prepared_encounters.csv
+reports/test_predictions.csv
+predictions.csv
+
+# Original healthcare dataset
+original_data/

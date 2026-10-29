@@ -1,0 +1,30 @@
+{
+  "baseline_mean": {
+    "baseline_MAE": 5125.084717935194,
+    "baseline_RMSE": 12304.883295266673,
+    "baseline_R2": -0.0019740981900862042,
+    "baseline_MedAE": 3598.2252640828788
+  },
+  "baseline_median": {
+    "median_baseline_MAE": 3082.871699633115,
+    "median_baseline_RMSE": 12615.547309260208,
+    "median_baseline_R2": -0.05320688599347645,
+    "median_baseline_MedAE": 238.165
+  },
+  "train_years": "2011-2019",
+  "test_years": "2020-2022",
+  "n_train": 21622,
+  "n_test": 6269,
+  "ridge_MAE": 4391.343049807829,
+  "ridge_RMSE": 11991.350748744391,
+  "ridge_R2": 0.04843664371258627,
+  "ridge_MedAE": 2810.8114296167005,
+  "random_forest_MAE": 3066.3856262341087,
+  "random_forest_RMSE": 11325.668121704735,
+  "random_forest_R2": 0.1511535058597645,
+  "random_forest_MedAE": 1123.0014152207832,
+  "gbr_MAE": 3124.06873429444,
+  "gbr_RMSE": 11279.037341708456,
+  "gbr_R2": 0.15812896869821202,
+  "gbr_MedAE": 1315.6947896277316
+}
