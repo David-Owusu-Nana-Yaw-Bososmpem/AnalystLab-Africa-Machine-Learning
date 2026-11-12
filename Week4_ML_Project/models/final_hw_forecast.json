@@ -1,0 +1,41 @@
+{
+  "model": "Holt-Winters Additive",
+  "seasonal_periods": 12,
+  "trend": "add",
+  "seasonal": "add",
+  "train_end": "2023-07",
+  "forecast_horizon": 6,
+  "forecast": [
+    {
+      "year_month": "2023-08",
+      "forecast_complaints": 1610,
+      "model": "Holt-Winters Additive"
+    },
+    {
+      "year_month": "2023-09",
+      "forecast_complaints": 1577,
+      "model": "Holt-Winters Additive"
+    },
+    {
+      "year_month": "2023-10",
+      "forecast_complaints": 1600,
+      "model": "Holt-Winters Additive"
+    },
+    {
+      "year_month": "2023-11",
+      "forecast_complaints": 1553,
+      "model": "Holt-Winters Additive"
+    },
+    {
+      "year_month": "2023-12",
+      "forecast_complaints": 1562,
+      "model": "Holt-Winters Additive"
+    },
+    {
+      "year_month": "2024-01",
+      "forecast_complaints": 1596,
+      "model": "Holt-Winters Additive"
+    }
+  ],
+  "generated_at": "2026-11-10T13:16:22.689877Z"
+}
