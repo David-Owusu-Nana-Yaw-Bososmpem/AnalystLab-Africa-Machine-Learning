@@ -1,0 +1,9 @@
+check,result
+Complaint ID uniqueness,PASS
+Missing submission dates,0
+Duplicate Complaint IDs,0
+Date received before submitted,0
+Source date range,2017-05-01 to 2023-08-28
+Missing monthly periods,0
+May 2017 coverage,"May 2017 begins on day 1, but complete source coverage cannot be proven from dates alone; flagged for sensitivity analysis."
+August 2023,Partial month; data ends 2023-08-28; excluded from full-month modelling
